@@ -169,7 +169,7 @@ This project answers the following questions using SQL (full queries in [`Pizza.
 
 ## 👤 Author & Contact
 
-** Mandeep Kaur **
+**Mandeep Kaur**
 
 - 📧 Email: kaur.mandeeep.08@gmail.com
 - 💼 LinkedIn:(https://www.linkedin.com/in/-mandeep-kaur-/)
