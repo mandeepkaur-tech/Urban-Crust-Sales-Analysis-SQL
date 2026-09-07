@@ -50,7 +50,7 @@ An end-to-end SQL analytics project built on a pizza restaurant's 2015 sales dat
 ## 🗄️ Database Schema
 
 The dataset is modeled as four relational tables in MySQL:
-
+                
 ```
 orders (order_id, date, time)
         │
