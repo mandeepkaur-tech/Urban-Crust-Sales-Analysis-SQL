@@ -26,7 +26,7 @@ An end-to-end SQL analytics project built on a pizza restaurant's 2015 sales dat
 ---
 
 ## 📁 Dataset Overview
-
+                       
 | Metric | Value |
 |---|---|
 | Total Orders | 21,350 |
