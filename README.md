@@ -46,7 +46,7 @@ An end-to-end SQL analytics project built on a pizza restaurant's 2015 sales dat
 - `Pizza.sql` – Full SQL script with table creation and all analysis queries
 
 ---
-
+                  
 ## 🗄️ Database Schema
 
 The dataset is modeled as four relational tables in MySQL:
