@@ -66,7 +66,7 @@ pizzas (pizza_id, pizza_type_id, size, price)
         ▼
 pizza_types (pizza_type_id, name, category, ingredients)
 ```
-
+                                                    
 `orders` and `order_details` are joined on `order_id`; `order_details`, `pizzas`, and `pizza_types` are joined through `pizza_id` and `pizza_type_id` to compute revenue, quantity, and category-level metrics.
 
 ---
